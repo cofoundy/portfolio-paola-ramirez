@@ -8,7 +8,7 @@ export const siteConfig = {
     linkedin: "https://linkedin.com/in/paolaramirezgonzales",
   },
   aboutMe:
-    "Especialista en diseño e implementación de marcos de gobierno, estandarización de procesos, estrategias de transformación digital end-to-end y gestión del cambio organizacional. Con más de 13 años de experiencia asegurando crecimiento de ingresos, productividad sostenida y madurez digital en sectores como Consumo Masivo, Banca y Finanzas, Salud, Retail y Logística. Alcance internacional en Perú, Latinoamérica y Centroamérica.",
+    "Especialista en diseño e implementación de marcos de gobierno, estandarización de procesos, estrategias de <strong>transformación digital</strong> end-to-end y <strong>gestión del cambio organizacional</strong>. Con más de <strong>13 años de experiencia</strong> asegurando crecimiento de ingresos, productividad sostenida y madurez digital en sectores como Consumo Masivo, Banca y Finanzas, Salud, Retail y Logística. Alcance internacional en Perú, Latinoamérica y Centroamérica.",
   skills: [
     "Transformación Digital",
     "Lean",
@@ -32,11 +32,11 @@ export const siteConfig = {
       title: "Especialista de Procesos y Change Management",
       dateRange: "Jul 2024 - Dic 2025",
       bullets: [
-        "Liderazgo de procesos, gobierno del ciclo comercial y transformación digital para 7 países (Guatemala, Ecuador, Perú, El Salvador, Honduras, Nicaragua, Jamaica)",
-        "Rediseño y despliegue del Ciclo Comercial Integral (procesos, procedimientos, reuniones, roles) transformando la operación de base regional",
-        "Reestructuración del rol de Supervisor de Ventas (+300 a nivel corporativo) potenciando sus capacidades digitales",
-        "Desarrollo de ecosistema digital con Suite Microsoft impactando a +350 colaboradores en 6 países",
-        "Liderazgo de 4 sesiones corporativas 'Train the Trainers' con +300 asistentes cada una",
+        "Liderazgo de procesos, gobierno del ciclo comercial y <strong>transformación digital</strong> para <strong>7 países</strong> (Guatemala, Ecuador, Perú, El Salvador, Honduras, Nicaragua, Jamaica)",
+        "Rediseño y despliegue del <strong>Ciclo Comercial Integral</strong> (procesos, procedimientos, reuniones, roles) transformando la operación de base regional",
+        "Reestructuración del rol de Supervisor de Ventas (<strong>+300 a nivel corporativo</strong>) potenciando sus capacidades digitales",
+        "Desarrollo de ecosistema digital con <strong>Suite Microsoft</strong> impactando a <strong>+350 colaboradores</strong> en 6 países",
+        "Liderazgo de <strong>4 sesiones corporativas</strong> 'Train the Trainers' con <strong>+300 asistentes</strong> cada una",
       ],
     },
     {
@@ -44,11 +44,11 @@ export const siteConfig = {
       title: "Portfolio Manager de Finanzas y RRHH",
       dateRange: "Jul 2022 - Abr 2024",
       bullets: [
-        "Gestión estratégica del portafolio de proyectos para 5 subsidiarias (Perú, Bolivia, Ecuador, Chile, Uruguay)",
-        "Administración de presupuesto consolidado de +3.4M USD sin desvíos significativos",
-        "Supervisión de +50 iniciativas de Finanzas, Contraloría, RRHH, Nómina y TI",
-        "Reducción de 1 día en el cierre contable consolidado a nivel corporativo",
-        "Implementación del modelo integral de gestión de programas como referente regional",
+        "Gestión estratégica del portafolio de proyectos para <strong>5 subsidiarias</strong> (Perú, Bolivia, Ecuador, Chile, Uruguay)",
+        "Administración de presupuesto consolidado de <strong>+$3.4M USD</strong> sin desvíos significativos",
+        "Supervisión de <strong>+50 iniciativas</strong> de Finanzas, Contraloría, RRHH, Nómina y TI",
+        "Reducción de <strong>1 día</strong> en el cierre contable consolidado a nivel corporativo",
+        "Implementación del <strong>modelo integral de gestión de programas</strong> como referente regional",
       ],
     },
     {
@@ -56,8 +56,8 @@ export const siteConfig = {
       title: "Consultor de Procesos y Tecnología",
       dateRange: "Feb 2022 - May 2022",
       bullets: [
-        "Consultoría estratégica para UNACEM en diagnóstico y rediseño de arquitectura de procesos de TI",
-        "Diseño de marco de gobierno integral aplicando COBIT e ITIL",
+        "Consultoría estratégica para <strong>UNACEM</strong> en diagnóstico y rediseño de arquitectura de procesos de TI",
+        "Diseño de marco de gobierno integral aplicando <strong>COBIT</strong> e <strong>ITIL</strong>",
         "Entrega de nueva estructura de procesos de TI como hoja de ruta para la transformación del área",
       ],
     },
@@ -66,10 +66,10 @@ export const siteConfig = {
       title: "Jefe de Operaciones y Mejora Continua",
       dateRange: "Ene 2021 - Nov 2021",
       bullets: [
-        "Liderazgo del plan estratégico, gobierno de procesos y gestión de servicios para +15 unidades mineras (Chinalco, Barrick, Angloamerican)",
-        "Optimización de estructura organizacional logrando eficiencia del 25% en número de puestos y planilla",
-        "Automatización de procesos reduciendo gestión administrativa en 70% y eliminando 85% de quejas por retrasos",
-        "Gestión integral de equipo de 13 personas con control presupuestal del área",
+        "Liderazgo del plan estratégico, gobierno de procesos y gestión de servicios para <strong>+15 unidades mineras</strong> (Chinalco, Barrick, Angloamerican)",
+        "Optimización de estructura organizacional logrando eficiencia del <strong>25%</strong> en número de puestos y planilla",
+        "Automatización de procesos reduciendo gestión administrativa en <strong>70%</strong> y eliminando <strong>85% de quejas</strong> por retrasos",
+        "Gestión integral de equipo de <strong>13 personas</strong> con control presupuestal del área",
       ],
     },
     {
@@ -77,9 +77,9 @@ export const siteConfig = {
       title: "Consultor Senior de Innovación y Transformación",
       dateRange: "Oct 2020 - Ene 2021",
       bullets: [
-        "Implementación del área de Innovación para Grupo Alfa (Sector Industrial) con plan estratégico y portafolio de proyectos",
-        "Diseño e implementación del marco de gestión de proyectos de TI para Pulso Salud (Sector Salud)",
-        "Capacitación a áreas comerciales en metodologías Agile y Customer Experience",
+        "Implementación del área de Innovación para <strong>Grupo Alfa</strong> (Sector Industrial) con plan estratégico y portafolio de proyectos",
+        "Diseño e implementación del marco de gestión de proyectos de TI para <strong>Pulso Salud</strong> (Sector Salud)",
+        "Capacitación a áreas comerciales en metodologías <strong>Agile</strong> y <strong>Customer Experience</strong>",
       ],
     },
     {
@@ -87,11 +87,11 @@ export const siteConfig = {
       title: "Subgerente de Consultoría, Métodos y Prácticas Lean y Agile",
       dateRange: "Nov 2017 - Dic 2019",
       bullets: [
-        "Liderazgo de transformación cultural hacia modelo ágil a escala organizacional",
-        "Proyecto VTAPO: reducción del 80% en tiempo de capacitación y traspaso (40 días-hombre)",
-        "Reducción del 10% en tiempos de atención de reclamos en Operaciones",
-        "Incremento del 14% en productividad de áreas de Operaciones y Banca Minorista",
-        "Capacitación a líderes en diseño de Squads/OKRs para Tribus de Negocios y Seguros",
+        "Liderazgo de <strong>transformación cultural</strong> hacia modelo ágil a escala organizacional",
+        "Proyecto VTAPO: reducción del <strong>80%</strong> en tiempo de capacitación y traspaso (<strong>40 días-hombre</strong>)",
+        "Reducción del <strong>10%</strong> en tiempos de atención de reclamos en Operaciones",
+        "Incremento del <strong>14% en productividad</strong> de áreas de Operaciones y Banca Minorista",
+        "Capacitación a líderes en diseño de <strong>Squads/OKRs</strong> para Tribus de Negocios y Seguros",
       ],
     },
     {
@@ -99,11 +99,11 @@ export const siteConfig = {
       title: "Analista Senior de Proyectos y Tecnología",
       dateRange: "Jul 2016 - Sep 2017",
       bullets: [
-        "Implementación de proyectos estratégicos de BI/BA (IBM InfoSphere, Qlikview, Power BI)",
-        "Optimización del 57% en horas-hombre para análisis de datos mediante construcción de Data Marts",
-        "Reducción del 35% en tiempos de entrega aplicando SCRUM",
-        "Ahorro del 10% en presupuesto global de proyectos gestionados",
-        "Cumplimiento normativo SOX sin observaciones de auditoría",
+        "Implementación de proyectos estratégicos de <strong>BI/BA</strong> (IBM InfoSphere, Qlikview, <strong>Power BI</strong>)",
+        "Optimización del <strong>57%</strong> en horas-hombre para análisis de datos mediante construcción de <strong>Data Marts</strong>",
+        "Reducción del <strong>35%</strong> en tiempos de entrega aplicando <strong>SCRUM</strong>",
+        "Ahorro del <strong>10%</strong> en presupuesto global de proyectos gestionados",
+        "Cumplimiento normativo <strong>SOX</strong> sin observaciones de auditoría",
       ],
     },
     {
@@ -111,7 +111,7 @@ export const siteConfig = {
       title: "Analista de Planeamiento Estratégico y BI",
       dateRange: "Mar 2015 - Feb 2016",
       bullets: [
-        "Desarrollo de soluciones de Business Intelligence para la industria farmacéutica",
+        "Desarrollo de soluciones de <strong>Business Intelligence</strong> para la industria farmacéutica",
         "Análisis estratégico y proyecciones para la toma de decisiones gerenciales",
       ],
     },
@@ -119,19 +119,19 @@ export const siteConfig = {
   education: [
     {
       school: "Centrum PUCP",
-      degree: "Maestría en Gerencia de Tecnologías de la Información",
+      degree: "<strong>Maestría</strong> en Gerencia de Tecnologías de la Información",
       dateRange: "En curso",
       achievements: [],
     },
     {
       school: "Centrum PUCP",
-      degree: "MBA - Maestría en Administración Estratégica de Empresas",
+      degree: "<strong>MBA</strong> - Maestría en Administración Estratégica de Empresas",
       dateRange: "2022 - 2024",
       achievements: [],
     },
     {
       school: "EADA Business School Barcelona",
-      degree: "Programa Avanzado en Big Data & Analytics",
+      degree: "Programa Avanzado en <strong>Big Data & Analytics</strong>",
       dateRange: "2024",
       achievements: [],
     },

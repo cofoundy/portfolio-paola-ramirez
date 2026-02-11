@@ -74,7 +74,7 @@ const hasProjects = siteConfig.projects && siteConfig.projects.length > 0;
                         <p
                           class={`text-base sm:text-lg text-gray-600 leading-relaxed ${project.link ? "pr-12 sm:pr-14 md:pr-16" : ""}`}
                         >
-                          {project.description}
+                          <Fragment set:html={project.description} />
                         </p>
 
                         {project.skills && project.skills.length > 0 && (
